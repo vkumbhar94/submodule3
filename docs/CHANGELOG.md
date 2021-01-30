@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/vkumbhar94/submodule3/compare/v2.0.0...v2.1.0) (2021-01-30)
+
+
+### Features
+
+* minor release ([8cca30f](https://github.com/vkumbhar94/submodule3/commit/8cca30f93ae4a9734f934a530e5f70cc7ac5ff16))
+
 # [2.0.0](https://github.com/vkumbhar94/submodule3/compare/v1.0.1...v2.0.0) (2021-01-30)
 
 
