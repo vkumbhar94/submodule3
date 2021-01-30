@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/vkumbhar94/submodule3/compare/v1.0.1...v2.0.0) (2021-01-30)
+
+
+### Features
+
+* New feature ([01bc357](https://github.com/vkumbhar94/submodule3/commit/01bc357d99e4279cd8f03c3c8f08ed87bab72037))
+
+
+### BREAKING CHANGES
+
+* breaks module in where you need to perform this step
+beforehand
+
 ## [1.0.1](https://github.com/vkumbhar94/submodule3/compare/v1.0.0...v1.0.1) (2021-01-30)
 
 
