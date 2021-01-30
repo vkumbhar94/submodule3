@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/vkumbhar94/submodule3/compare/v1.0.0...v1.0.1) (2021-01-30)
+
+
+### Bug Fixes
+
+* **readme:** release 1.0.1 ([40a125f](https://github.com/vkumbhar94/submodule3/commit/40a125ff481db8e78879f44b01b74161c9cc3a9b))
+
 # 1.0.0 (2021-01-30)
 
 
